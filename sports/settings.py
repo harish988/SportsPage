@@ -79,12 +79,12 @@ WSGI_APPLICATION = 'sports.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'sports',
-        'USER': 'root',
-        'PASSWORD': '',
-        'HOST': 'localhost',
-        'PORT': ''
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'desn72lrd4vk1l',
+        'USER': 'mlbmtqaftskmua',
+        'PASSWORD': 'e7dff6069cfcc84f83dc0cbb59c290ad1838f078f24056b89e2b86816eed66f5',
+        'HOST': 'ec2-54-235-67-106.compute-1.amazonaws.com',
+        'PORT': '5432'
     }
 }
 
