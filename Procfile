@@ -1,1 +1,1 @@
-web: gunicorn heroku_blog.wsgi --log-file -
+web: gunicorn sports.wsgi --log-file -
