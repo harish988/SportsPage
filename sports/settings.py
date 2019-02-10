@@ -25,7 +25,7 @@ SECRET_KEY = '2qocg258ty=3@vv^8e%9754q&8($otj$q0fc%pkygp^oy6sfn8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mepcosport.herokuapp.com']
 
 
 # Application definition
