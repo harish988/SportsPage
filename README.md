@@ -1,5 +1,5 @@
 # SportsPage
 
-A Sports web aaplication created for my college with the Django framework and deployed at the Heroku.
+A Django Web Application created for my college sports automation and deployed at the Heroku with the Heroku Postgress DB.
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](harish988&url=https://www.mepcosport.herokuapp.com)
+To view the site Click : [MepcoSports](https://www.mepcosport.herokuapp.com)
